@@ -1,9 +1,4 @@
-# Report:
-Link to access report : https://www.overleaf.com/read/xwjpsnqjyqfr
-
-# Code:
-
-### Baseline_Model:
+# Baseline_Model:
 
  * *Generate_Features.ipynb*
  
@@ -23,7 +18,7 @@ Link to access report : https://www.overleaf.com/read/xwjpsnqjyqfr
  
    This notebook generates statistics like Total Patient, Drugs, Evaluations, etc for the master dataset and the sub datasets for Librec and Deep Learning Model. 
 
-### neuralCF
+# neuralCF
 
 This contains all the code for the Deep Learning Model.
 
